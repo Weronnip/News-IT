@@ -7,6 +7,9 @@ function Smi() {
           <div className="name-new">
             <h4 className="title-new">Name News One</h4>
           </div>
+          <div className="news-imag">
+            <img src="#" alt="News image" className='image'/>
+          </div>
           <div className="block-news">
             <p className="news-text">
             Wearable technology has emerged as a game changer in the realm of information technology.<br /> 

@@ -29,7 +29,7 @@ function Homes() {
             <h4 className="title-news1">News Twos</h4>
           </div>
           <div className="news-imag">
-            <img src="" alt="News image" className='image'/>
+            <img src="#" alt="News image" className='image'/>
           </div>
           <div className="block-news1">
             <p className="news-text" contentEditable>
