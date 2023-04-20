@@ -1,0 +1,146 @@
+body {
+  background-attachment: fixed;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  font-family: 'Cambria';
+  width: 100%;
+  height: 100% auto;
+  margin: 0% auto;
+}
+
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0px;  
+  background: transparent;  
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FF0000;
+}
+
+.window {
+  min-width: 700px;
+  min-height: 400px;
+  padding: 50px;
+}
+
+/* section news */
+
+.lastest-new {
+  background-attachment: fixed;
+} 
+
+.best-news {
+  bottom: 50px;
+  color: #1a1735;
+  text-align: center;
+  font-size: 25px;
+  position: relative;  
+}
+
+.block-info {
+  background-color: #1a1735;
+  border-radius: 37px;
+  display: inline-block;
+  width: 550px;
+  height: 100%;
+  min-height: 464px;
+  left: 70px;
+  position: absolute;
+}
+
+.name-new {
+  background-color: white;
+  border-radius: 42px;
+  width: 400px;
+  height: 32px;
+  left: 81px;
+  top: 85px;
+  position: absolute;
+}
+.title-new {
+  bottom: 15px;
+  color: #1a1735;
+  text-align: center;
+  position: relative;
+}
+
+.block-news {
+  background-color: white;
+  border-radius: 25px;
+  width: 400px;
+  height: auto;
+  min-height: 400px;
+  max-height: 800px;
+  left: 80px;
+  top: 120px;
+  position: relative;
+}
+
+.news-text {
+  color: #1a1735;
+  top: 20px;
+  text-align: center;
+  position: relative;
+}
+
+/* Block-news 2 */
+
+.block-info1 {
+  background-color: #1a1735;
+  border-radius: 37px;
+  display: inline-block;
+  width: 550px;
+  height: 100%;
+  min-height: 464px;
+  left: 750px;
+  position: absolute;
+}
+
+.name-new1 {
+  background-color: white;
+  border-radius: 42px;
+  width: 400px;
+  height: 32px;
+  left: 81px;
+  top: 85px;
+  position: absolute;
+}
+.title-news1 {
+  bottom: 15px;
+  color: #1a1735;
+  text-align: center;
+  position: relative;
+}
+
+.block-news1 {
+  background-color: white;
+  border-radius: 25px;
+  width: 400px;
+  height: auto;
+  min-height: 400px;
+  max-width: 800px;
+  left: 80px;
+  top: 120px;
+  position: relative;
+}
+
+.news-text1 {
+  color: #1a1735;
+  top: 20px;
+  text-align: center;
+  position: relative;
+}
+
+/* image */
+.image {
+  color: white;
+  width: 400px;
+  height: 50px;
+  top: 35px;
+  left: 220px;
+  position: relative;
+}
