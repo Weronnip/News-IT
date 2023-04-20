@@ -24,6 +24,53 @@ function Smi() {
             </p>
           </div>
         </div>
+
+        {/* news */}
+
+        <div className="block-fast-news">
+          <div className="name-news">
+            <h4 className="title-news">Fast News</h4>
+          </div>
+          <div className="fast-news">
+            <aside className='mini-title'>Chat GPT-4 helps Humens in GIA</aside>
+              <p className="news-texts">
+                Chat GPT helps in exams
+              </p>
+          </div>
+        </div>
+
+        <div className="top">
+        <br />
+        </div>
+
+        <div className="block-fast-news">
+          <div className="name-news">
+            <h4 className="title-news">Fast News</h4>
+          </div>
+          <div className="fast-news">
+            <aside className='mini-title'>Chat GPT-4 helps Humens in GIA</aside>
+              <p className="news-texts">
+                Chat GPT helps in exams
+              </p>
+          </div>
+        </div>
+
+        <div className="top">
+          <br />
+        </div>
+
+        <div className="block-fast-news">
+          <div className="name-news">
+            <h4 className="title-news">Fast News</h4>
+          </div>
+          <div className="fast-news">
+            <aside className='mini-title'>Chat GPT-4 helps Humens in GIA</aside>
+              <p className="news-texts">
+                Chat GPT helps in exams
+              </p>
+          </div>
+        </div>
+
       </section>
     );
 }
