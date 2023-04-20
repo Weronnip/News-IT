@@ -1,4 +1,4 @@
-import { Link, Outlet } from 'react-router-dom'
+import { NavLink, Outlet } from 'react-router-dom'
 import './css/App.css'
 
 
@@ -21,10 +21,10 @@ function Layout() {
         </div>
 
         <div className="navigate">
-          <Link to="/home" className='bth'>Home</Link>
-          <Link to="/News" className='bth'>New news</Link>
-          <Link to="/about" className='bth'>About us</Link>
-          <Link to="/profile" className='bth'>Profile</Link>
+          <NavLink to="/home" className='bth'>Home</NavLink>
+          <NavLink to="/News" className='bth'>New news</NavLink>
+          <NavLink to="/about" className='bth'>About us</NavLink>
+          <NavLink to="/profile" className='bth'>Profile</NavLink>
         </div>
 
       </header>
