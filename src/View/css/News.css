@@ -24,7 +24,7 @@ html {
 /* Fast-news */
 
 .block-fast-news {
-    bottom: 20px;
+    bottom: 28px;
     position: relative;
 }
 
@@ -62,6 +62,7 @@ html {
     color: #1a1735;
     width: 240px;
     height: 20px;
+    text-align: center;
     top: 15px;
     left: 80px;
     position: relative;

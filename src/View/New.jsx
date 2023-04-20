@@ -29,12 +29,12 @@ function Smi() {
 
         <div className="block-fast-news">
           <div className="name-news">
-            <h4 className="title-news">Fast News</h4>
+            <h4 className="title-news">Frist Fast News</h4>
           </div>
           <div className="fast-news">
-            <aside className='mini-title'>Chat GPT-4 helps Humens in GIA</aside>
+            <aside className='mini-title'>PO in Humen</aside>
               <p className="news-texts">
-                Chat GPT helps in exams
+                PO install in humen
               </p>
           </div>
         </div>
@@ -48,9 +48,9 @@ function Smi() {
             <h4 className="title-news">Fast News</h4>
           </div>
           <div className="fast-news">
-            <aside className='mini-title'>Chat GPT-4 helps Humens in GIA</aside>
+            <aside className='mini-title'>Intel in Russia</aside>
               <p className="news-texts">
-                Chat GPT helps in exams
+                Intel moved to Russia
               </p>
           </div>
         </div>
@@ -64,9 +64,9 @@ function Smi() {
             <h4 className="title-news">Fast News</h4>
           </div>
           <div className="fast-news">
-            <aside className='mini-title'>Chat GPT-4 helps Humens in GIA</aside>
+            <aside className='mini-title'>Nvidia in Russia</aside>
               <p className="news-texts">
-                Chat GPT helps in exams
+                Nvidia moved to Russia
               </p>
           </div>
         </div>
