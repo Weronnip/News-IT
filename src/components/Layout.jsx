@@ -1,4 +1,5 @@
 import { NavLink, Outlet } from 'react-router-dom'
+import { CustumLink } from './CustomLink';
 import './css/App.css'
 
 
@@ -21,10 +22,10 @@ function Layout() {
         </div>
 
         <div className="navigate">
-          <NavLink to="/home" className='bth'>Home</NavLink>
-          <NavLink to="/News" className='bth'>New news</NavLink>
-          <NavLink to="/about" className='bth'>About us</NavLink>
-          <NavLink to="/profile" className='bth'>Profile</NavLink>
+          <CustumLink to="/home" className='bth'>Home</CustumLink>
+          <CustumLink to="/News" className='bth'>New news</CustumLink>
+          <CustumLink to="/about" className='bth'>About us</CustumLink>
+          <CustumLink to="/profile" className='bth'>Profile</CustumLink>
         </div>
 
       </header>
