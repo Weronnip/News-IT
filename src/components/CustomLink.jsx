@@ -6,7 +6,6 @@ function CustumLink({children, to, ...props}) {
 
     return(
         <Link to={to} 
-        className="custombth"
         style={{
             color:  math ? "crimson" : "white"
         }}

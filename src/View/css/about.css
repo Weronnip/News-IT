@@ -1,0 +1,79 @@
+/* title page */
+
+.titles {
+    color: #1a1735;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+}
+
+/* information */
+
+.block-about {
+    background: #1a1735;
+    border-radius: 25px;
+    color: white;
+    display: block;
+    width: 500px;
+    height: 200px;
+    left: 450px;
+    transition: all 0.5s;
+    position: relative;
+}
+
+.block-about:hover {
+    background-color: #191922;
+    color: rgb(255, 255, 255);
+}
+
+.about-title {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.about-text {
+    text-align: center;
+}
+
+/* button */
+
+.button {
+    background: #1a1735;
+    border-radius: 5px;
+    color: white;
+    width: 130px;
+    height: 40px;
+    left: 625px;
+    top: 25px;
+    transition: all 0.7s;
+    position: relative;
+}
+
+.button:hover {
+    border-radius: 30px;
+}
+
+.contbth {
+    color: firebrick;
+}
+/* contacts */
+
+.contacts {
+    background: #1a1735;
+    border-radius: 15px;
+    width: 440px;
+    height: 150px;
+    left: 480px;
+    position: relative;
+}
+
+.name-cont {
+    color: white;
+    text-align: center;
+}
+
+.cont {
+    color: white;
+    align-self: center;
+}
