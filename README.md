@@ -1,3 +1,5 @@
 Web site in sphere media
 
-image(website)
+Web-site(local tested)
+
+Version website: 0.0.55
