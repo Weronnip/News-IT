@@ -64,6 +64,7 @@
     border-radius: 15px;
     width: 440px;
     height: 150px;
+    text-align: center;
     left: 480px;
     position: relative;
 }

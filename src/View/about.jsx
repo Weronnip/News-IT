@@ -5,13 +5,13 @@ function About() {
     return(
         <section className='infos'>
             <div className="information">
-                <h4 className='titles'>About us</h4>
+                <h4 className='titles'>О нас</h4>
                 <div className="block-about">
-                    <h4 className="about-title">News IT</h4>
+                    <h4 className="about-title">Новости Айти</h4>
                     <p className="about-text">
                         Мы занимаемся освещением событий,<br /> 
                         происходящия в мире Айти.<br />
-                        Так же мы занимаеся,<br /> 
+                        Так же мы занимаемся,<br /> 
                         обучением программировании,<br /> жмите по ссылке ниже. <br />
                     </p>
                 </div>

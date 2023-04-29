@@ -5,22 +5,24 @@ function Smi() {
         <section className='lastest-new'>
         <div className="block-info">
           <div className="name-new">
-            <h4 className="title-new">Name News One</h4>
+            <h4 className="title-new">Технологии изменили правила игры</h4>
           </div>
           <div className="news-imag">
             <img src="#" alt="News image" className='image'/>
           </div>
           <div className="block-news">
             <p className="news-text">
-            Wearable technology has emerged as a game changer in the realm of information technology.<br /> 
-            It refers to wearable technology such as smartwatches, fitness trackers, and smart eyewear.<br /> 
-            Wearable technology has grown in popularity in recent years because<br /> 
-            it provides users with a variety of benefits such as ease, mobility, and connectivity.<br /> 
-            In this post, we will look at how wearable technology is affecting the IT business.<br />
-            The rise of wearable technology has had a significant impact on the IT industry.<br /> 
-            Wearable gadgets have become increasingly complex and feature-rich,<br /> 
-            allowing users to track their fitness levels as well as monitor their heart rate and sleep habits.<br /> 
-            As a result, the demand for wearable technology has risen dramatically.<br />
+            Носимые технологии изменили правила игры в сфере информационных технологий.
+            Это относится к носимым технологиям, таким как умные часы, фитнес-трекеры и умные очки.<br />
+            Популярность носимых технологий в последние годы возросла, поскольку
+            они предоставляют пользователям множество преимуществ, таких как простота, 
+            мобильность и подключение к интернету.<br />
+            В этом посте мы рассмотрим, как носимые технологии влияют на ИТ-бизнес.
+            Развитие носимых технологий оказало значительное влияние на ИТ-индустрию.<br />
+            Носимые гаджеты становятся все более сложными и многофункциональными,
+            позволяет пользователям отслеживать уровень своей физической подготовки,<br />
+            а также контролировать частоту сердечных сокращений и привычки ко сну.
+            В результате спрос на носимые технологии резко возрос.
             </p>
           </div>
         </div>
@@ -29,12 +31,12 @@ function Smi() {
 
         <div className="block-fast-news">
           <div className="name-news">
-            <h4 className="title-news">Frist Fast News</h4>
+            <h4 className="title-news">ИИ был установлен в мозг человека</h4>
           </div>
           <div className="fast-news">
-            <aside className='mini-title'>PO in Humen</aside>
+            <aside className='mini-title'>ИИ помогает человеку</aside>
               <p className="news-texts">
-                PO install in humen
+                ИИ - помог решить многие проблемы, у людей
               </p>
           </div>
         </div>
@@ -45,12 +47,13 @@ function Smi() {
 
         <div className="block-fast-news">
           <div className="name-news">
-            <h4 className="title-news">Fast News</h4>
+            <h4 className="title-news">Компания Intel вернулась в Россию?</h4>
           </div>
           <div className="fast-news">
-            <aside className='mini-title'>Intel in Russia</aside>
+            <aside className='mini-title'>Чем это грозит компании?</aside>
               <p className="news-texts">
-                Intel moved to Russia
+                Да действительно, компания вернулась в Россию, а если быть точнее,
+                теперь главное здание теперь в городе казань
               </p>
           </div>
         </div>
@@ -61,12 +64,12 @@ function Smi() {
 
         <div className="block-fast-news">
           <div className="name-news">
-            <h4 className="title-news">Fast News</h4>
+            <h4 className="title-news">Компания Nvidia вернулась в Россию?</h4>
           </div>
           <div className="fast-news">
-            <aside className='mini-title'>Nvidia in Russia</aside>
+            <aside className='mini-title'>Чем это грозит компании</aside>
               <p className="news-texts">
-                Nvidia moved to Russia
+                Компания Nvidia разместило своё здание в городе
               </p>
           </div>
         </div>

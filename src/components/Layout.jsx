@@ -9,23 +9,23 @@ function Layout() {
         <header className='header'>
 
         <div className="screach">
-          <h4 className="name-app">News IT</h4>
-          <p className="text">All news IT</p>
+          <h4 className="name-app">Новости Айти</h4>
+          <p className="text">Все новости про Айти</p>
 
           <form action="#">
             <input type="search"
-            placeholder='Enter request'
+            placeholder='Поиск'
             className='point' />
-            <button type="submit" className='bth-sreach'>search</button>
+            <button type="submit" className='bth-sreach'>Поиск</button>
           </form>
 
         </div>
 
         <div className="navigate">
-          <CustumLink to="/home" className='bth'>Home</CustumLink>
-          <CustumLink to="/News" className='bth'>New news</CustumLink>
-          <CustumLink to="/about" className='bth'>About us</CustumLink>
-          <CustumLink to="/profile" className='bth'>Profile</CustumLink>
+          <CustumLink to="/home" className='bth'>Главная страница</CustumLink>
+          <CustumLink to="/News" className='bth'>Последние новости</CustumLink>
+          <CustumLink to="/about" className='bth'>О нас</CustumLink>
+          <CustumLink to="/profile" className='bth'>Профиль</CustumLink>
         </div>
 
       </header>

@@ -45,7 +45,7 @@ html {
   color: white;
   font-size: 20px;
   top: 20px;
-  left: 90px;
+  left: 65px;
   padding-bottom: 10px;
   position: relative;
 }
@@ -53,7 +53,7 @@ html {
 .text {
   color: white;
   font-size: 18px;
-  left: 85px;
+  left: 45px;
   position: relative;
 }
 
@@ -85,7 +85,7 @@ html {
   bottom: 60px;
   text-align: center;
   display: inline-block;
-  left: 60px;
+  left: 40px;
   position: relative;
 }
 
