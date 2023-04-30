@@ -1,4 +1,4 @@
-import './css/index.css'
+import './css/News.css'
 
 function Smi() {
     return (

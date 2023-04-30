@@ -1,0 +1,114 @@
+body {
+  background-attachment: fixed;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  font-family: 'Cambria';
+  width: 100%;
+  height: 100% auto;
+  margin: 0% auto;
+}
+
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0px;  
+  background: transparent;  
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FF0000;
+}
+
+.main-win {
+  background: #1F1F31;
+  border-radius: 25PX;
+  width: 600px;
+  height: 440px;
+}
+
+.avatar {
+  background-color: #D9D9D9;
+  border: 5px solid white;
+  border-radius: 360px;
+  width: 125px;
+  height: 125px;
+  left: 55px;
+  top: 55px;
+  transition: ease-in-out 0.5s;
+  position: relative;
+}
+
+.user-bio{
+  text-align: center;
+}
+
+.name-last {
+  bottom: 55px;
+  color: white;
+  font-size: 20px;
+  left: 10px;
+  position: relative;
+}
+
+.exp{
+  bottom: 35px;
+  color: white;
+  font-size: 20px;
+  left: 20px;
+  position: relative;
+}
+
+.about-user {
+  background-color: #D9D9D9;
+  border-radius: 10px;
+  width: 475px;
+  height: 215px;
+  left: 60px;
+  position: relative;
+}
+
+.texts {
+  color: #1F1F31;
+  font-size: 18px;
+  padding-left: 25px;
+}
+
+/* Block 2 */
+
+.titles {
+  color: white;
+}
+
+.publ {
+  background: #1F1F31;
+  bottom: 460px;
+  border-radius: 30px;
+  width: 230px;
+  height: 440px;
+  left: 950px;
+  position: relative;
+}
+
+.public {
+  background: #D9D9D9;
+  border-radius: 25px;
+  text-align: center;
+  width: 209px;
+  height: 47px;
+  left: 10px;
+  top: 60px;
+  position: relative;
+}
+
+.abth {
+  color: #1F1F31;
+  font-weight: 700;
+  text-decoration: none;
+  padding-top: 25px;
+}
+
+.abth:hover {
+  color: brown;
+}
